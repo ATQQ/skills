@@ -1,6 +1,11 @@
 ---
 name: weixin-shipinhao-download
+display_name: 微信视频号下载
+display_name_en: WeChat Channels Downloader
 description: 微信视频号下载。把一条或多条 https://weixin.qq.com/sph/... 微信视频号分享链接保存成本地 MP4。当用户发来微信视频号/视频号链接，或说"下载/保存/备份微信视频号""存一下这个视频号视频""把视频号弄到本地"时使用。用法：本技能 + 视频号链接。仅用于本人发布或已获授权保存的内容。
+description_zh: 微信视频号下载。把一条或多条 https://weixin.qq.com/sph/... 分享链接保存成本地 MP4。用法：本技能 + 视频号链接。
+description_en: Download WeChat Channels videos to local MP4 from one or more https://weixin.qq.com/sph/... share links.
+version: 1.0.0
 ---
 
 # 微信视频号下载
